@@ -1,0 +1,17 @@
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Users\malhe\OneDrive\Documentos\EIM2Ano\Projeto50_10\BL\BusinessLayer\bin\Debug\net6.0\DataLayer.pdb
